@@ -1,0 +1,11 @@
+
+{
+  "name": "node-tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
+
